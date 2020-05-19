@@ -15,7 +15,7 @@ target/
 .settings/
 build/
 
-# 0S Files
+# OS Files
 Thumbs.db
 .DS_Store
 
